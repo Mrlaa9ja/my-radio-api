@@ -1,0 +1,20 @@
+[
+  {
+    "id": "bbc_hausa",
+    "name": "BBC Hausa",
+    "frequency": "International",
+    "streamUrl": "https://stream.live.vc.bbcmedia.co.uk/bbc_hausa_radio",
+    "logoUrl": "https://raw.githubusercontent.com/YOUR_USERNAME/RadioFM-API/main/icons/bbc.png",
+    "category": "International",
+    "isInternational": true
+  },
+  {
+    "id": "freedom_radio",
+    "name": "Freedom Radio",
+    "frequency": "99.5 FM",
+    "streamUrl": "https://s3.radio.co/s8377b21a7/listen",
+    "logoUrl": "https://raw.githubusercontent.com/YOUR_USERNAME/RadioFM-API/main/icons/freedom.png",
+    "category": "Local FM",
+    "isInternational": false
+  }
+]
