@@ -1,7 +1,5 @@
 {
   "admob": {
-    "bannerId": "ca-app-b-3940256099942544/6300978111",
-    "interstitialId": "ca-app-b-3940256099942544/1033173712"
   },
   "settings": {
     "maintenanceMode": false,
