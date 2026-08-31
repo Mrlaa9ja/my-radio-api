@@ -9,22 +9,22 @@
     "isInternational": true
   },
   {
-    "id": "freedom_radio",
-    "name": "Freedom Radio",
+    "id": "dw-hausa",
+    "name": "DW Hausa",
     "frequency": "99.5 FM",
     "streamUrl": "https://s3.radio.co/s8377b21a7/listen",
-    "logoUrl": "https://raw.githubusercontent.com/Mrlaa9ja/my-radio-api/main/freedom.png",
+    "logoUrl": "https://raw.githubusercontent.com/Mrlaa9ja/my-radio-api/main/dw.png",
     "category": "Local FM",
-    "isInternational": false
+    "isInternational": true
   },
   {
-    "id": "cool_fm",
-    "name": "Cool FM",
+    "id": "voa-hausa",
+    "name": "VOA Hausa",
     "frequency": "95.5 FM",
     "streamUrl": "https://s3.radio.co/s8377b21a7/listen",
-    "logoUrl": "https://raw.githubusercontent.com/Mrlaa9ja/my-radio-api/main/cool.png",
+    "logoUrl": "https://raw.githubusercontent.com/Mrlaa9ja/my-radio-api/main/rfi.png",
     "category": "Local FM",
-    "isInternational": false
+    "isInternational": true
   },
   {
     "id": "ibrahim_fm",
