@@ -27,6 +27,15 @@
     "isInternational": true
   },
   {
+    "id": "trt_hausa",
+    "name": "TRT Hausa",
+    "frequency": "International",
+    "streamUrl": "https://stream.live.vc.bbcmedia.co.uk/bbc_hausa_radio",
+    "logoUrl": "https://raw.githubusercontent.com/Mrlaa9ja/my-radio-api/main/bb.png",
+    "category": "International",
+    "isInternational": true
+  },
+  {
     "id": "ibrahim_fm",
     "name": "Ibrahim FM",
     "frequency": "95.5 FM",
