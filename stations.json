@@ -3,8 +3,8 @@
     "id": "bbc_hausa",
     "name": "BBC Hausa",
     "frequency": "International",
-    "streamUrl": "https://stream.live.vc.bbcdia.co.uk/bbc_hausa_radio",
-    "logoUrl": "https://raw.githubusercontent.com/YOUR_USERNAME/RadioFM-API/main/icons/bbc.png",
+    "streamUrl": "https://stream.live.vc.bbcmedia.co.uk/bbc_hausa_radio",
+    "logoUrl": "https://i.ibb.co/Kpf4s7JN/bbc.jpg",
     "category": "International",
     "isInternational": true
   },
@@ -20,6 +20,15 @@
   {
     "id": "dw_hausa",
     "name": "cool fm",
+    "frequency": "95.5 FM",
+    "streamUrl": "https://s3.radio.co/s8377b21a7/listen",
+    "logoUrl": "https://raw.githubusercontent.com/YOUR_USERNAME/RadioFM-API/main/icons/freedom.png",
+    "category": "Local FM",
+    "isInternational": true
+  },
+  {
+    "id": "mr_laa",
+    "name": "ibrahim fm",
     "frequency": "95.5 FM",
     "streamUrl": "https://s3.radio.co/s8377b21a7/listen",
     "logoUrl": "https://raw.githubusercontent.com/YOUR_USERNAME/RadioFM-API/main/icons/freedom.png",
