@@ -5,7 +5,7 @@
     "bannerPosition": "top" 
   },
  "settings": {
-  "maintenanceMode": true,
+  "maintenanceMode": false,
   "updateMessage": "Server migration in progress. We'll be back at 5:00 PM!"
 }
 }
