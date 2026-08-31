@@ -4,61 +4,61 @@
     "name": "BBC Hausa",
     "frequency": "International",
     "streamUrl": "https://stream.live.vc.bbcmedia.co.uk/bbc_hausa_radio",
-    "logoUrl": "https://github.com/Mrlaa9ja/my-radio-api/blob/main/bbc.png",
+    "logoUrl": "https://raw.githubusercontent.com/Mrlaa9ja/my-radio-api/main/bbc.png",
     "category": "International",
     "isInternational": true
   },
   {
-    "id": "frdom_radio",
+    "id": "freedom_radio",
     "name": "Freedom Radio",
     "frequency": "99.5 FM",
     "streamUrl": "https://s3.radio.co/s8377b21a7/listen",
-    "logoUrl": "https://github.com/Mrlaa9ja/my-radio-api/blob/main/dw.png",
-    "category": "Local FM",
-    "isInternational": true
-  },
-  {
-    "id": "dw_hausa",
-    "name": "cool fm",
-    "frequency": "95.5 FM",
-    "streamUrl": "https://s3.radio.co/s8377b21a7/listen",
-    "logoUrl": "https://github.com/Mrlaa9ja/my-radio-api/blob/main/rfi.png",
-    "category": "Local FM",
-    "isInternational": true
-  },
-  {
-    "id": "mr_laa",
-    "name": "ibrahim fm",
-    "frequency": "95.5 FM",
-    "streamUrl": "https://s3.radio.co/s8377b21a7/listen",
-    "logoUrl": "https://raw.githubusercontent.com/YOUR_USERNAME/RadioFM-API/main/icons/freedom.png",
+    "logoUrl": "https://raw.githubusercontent.com/Mrlaa9ja/my-radio-api/main/freedom.png",
     "category": "Local FM",
     "isInternational": false
   },
   {
-    "id": "54",
-    "name": "duck fm",
+    "id": "cool_fm",
+    "name": "Cool FM",
+    "frequency": "95.5 FM",
+    "streamUrl": "https://s3.radio.co/s8377b21a7/listen",
+    "logoUrl": "https://raw.githubusercontent.com/Mrlaa9ja/my-radio-api/main/cool.png",
+    "category": "Local FM",
+    "isInternational": false
+  },
+  {
+    "id": "ibrahim_fm",
+    "name": "Ibrahim FM",
+    "frequency": "95.5 FM",
+    "streamUrl": "https://s3.radio.co/s8377b21a7/listen",
+    "logoUrl": "https://raw.githubusercontent.com/Mrlaa9ja/my-radio-api/main/ibrahim.png",
+    "category": "Local FM",
+    "isInternational": false
+  },
+  {
+    "id": "duck_fm",
+    "name": "Duck FM",
     "frequency": "99.5 FM",
     "streamUrl": "https://s3.radio.co/s8377b21a7/listen",
-    "logoUrl": "https://raw.githubusercontent.com/YOUR_USERNAME/RadioFM-API/main/icons/freedom.png",
+    "logoUrl": "https://raw.githubusercontent.com/Mrlaa9ja/my-radio-api/main/duck.png",
     "category": "Local FM",
     "isInternational": false
   },
   {
-    "id": "ajdgjk",
-    "name": "kowa fm",
+    "id": "kowa_fm",
+    "name": "Kowa FM",
     "frequency": "95.5 FM",
     "streamUrl": "https://s3.radio.co/s8377b21a7/listen",
-    "logoUrl": "https://raw.githubusercontent.com/YOUR_USERNAME/RadioFM-API/main/icons/freedom.png",
+    "logoUrl": "https://raw.githubusercontent.com/Mrlaa9ja/my-radio-api/main/kowa.png",
     "category": "Local FM",
-    "isInternational" false
+    "isInternational": false
   },
   {
-    "id": "ajdvjhad",
-    "name": "hill fm",
+    "id": "hill_fm",
+    "name": "Hill FM",
     "frequency": "95.5 FM",
     "streamUrl": "https://s3.radio.co/s8377b21a7/listen",
-    "logoUrl": "https://raw.githubusercontent.com/YOUR_USERNAME/RadioFM-API/main/icons/freedom.png",
+    "logoUrl": "https://raw.githubusercontent.com/Mrlaa9ja/my-radio-api/main/hill.png",
     "category": "Local FM",
     "isInternational": false
   }
