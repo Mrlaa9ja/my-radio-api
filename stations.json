@@ -35,4 +35,40 @@
     "category": "Local FM",
     "isInternational": true
   }
+
+
+
+
+
+
+
+
+
+  {
+    "id": "54",
+    "name": "duck fm",
+    "frequency": "99.5 FM",
+    "streamUrl": "https://s3.radio.co/s8377b21a7/listen",
+    "logoUrl": "https://raw.githubusercontent.com/YOUR_USERNAME/RadioFM-API/main/icons/freedom.png",
+    "category": "Local FM",
+    "isInternational": false
+  },
+  {
+    "id": "ajdgjk",
+    "name": "kowa fm",
+    "frequency": "95.5 FM",
+    "streamUrl": "https://s3.radio.co/s8377b21a7/listen",
+    "logoUrl": "https://raw.githubusercontent.com/YOUR_USERNAME/RadioFM-API/main/icons/freedom.png",
+    "category": "Local FM",
+    "isInternational": true
+  },
+  {
+    "id": "ajdvjhad",
+    "name": "hill fm",
+    "frequency": "95.5 FM",
+    "streamUrl": "https://s3.radio.co/s8377b21a7/listen",
+    "logoUrl": "https://raw.githubusercontent.com/YOUR_USERNAME/RadioFM-API/main/icons/freedom.png",
+    "category": "Local FM",
+    "isInternational": true
+  }
 ]
