@@ -3,7 +3,7 @@
     "id": "bbc_hausa",
     "name": "BBC Hausa",
     "frequency": "International",
-    "streamUrl": "https://stream.live.vc.bbcma.co.uk/bbc_hausa_radio",
+    "streamUrl": "https://stream.live.vc.bbcmedia.co.uk/bbc_hausa_radio",
     "logoUrl": "https://raw.githubusercontent.com/YOUR_USERNAME/RadioFM-API/main/icons/bbc.png",
     "category": "International",
     "isInternational": true
