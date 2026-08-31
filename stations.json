@@ -12,7 +12,7 @@
     "id": "dw-hausa",
     "name": "DW Hausa",
     "frequency": "99.5 FM",
-    "streamUrl": "https://s3.radio.co/s8377b21a7/listen",
+    "streamUrl": "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/../../encoder/audio/mitschnitt/sendung-hau-morgen.mp3",
     "logoUrl": "https://raw.githubusercontent.com/Mrlaa9ja/my-radio-api/main/ddw.png",
     "category": "Local FM",
     "isInternational": true
@@ -21,7 +21,7 @@
     "id": "voa-hausa",
     "name": "VOA Hausa",
     "frequency": "95.5 FM",
-    "streamUrl": "https://s3.radio.co/s8377b21a7/listen",
+    "streamUrl": "http://kv78.studio24.site/bh/raayi-riga.mp3",
     "logoUrl": "https://raw.githubusercontent.com/Mrlaa9ja/my-radio-api/main/vo.png",
     "category": "Local FM",
     "isInternational": true
