@@ -5,7 +5,7 @@
     "bannerPosition": "bottom" 
   },
   "settings": {
-    "maintenanceMode": false,
+    "maintenanceMode": true,
     "minAppVersion": 1,
     "updateMessage": "New stations added!"
   }
