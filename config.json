@@ -1,11 +1,12 @@
 {
   "admob": {
     "bannerId": "ca-app-pub-3940256099942544/6300978111",
-    "interstitialId": "ca-app-pub-3940256099942544/1033173712"
+    "interstitialId": "ca-app-pub-3940256099942544/1033173712",
+    "bannerPosition": "top" 
   },
   "settings": {
     "maintenanceMode": false,
     "minAppVersion": 1,
-    "updateMessage": "New stations added! Please update."
+    "updateMessage": "New stations added!"
   }
 }
