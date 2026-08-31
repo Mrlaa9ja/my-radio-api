@@ -6,24 +6,46 @@
     "streamUrl": "https://stream.live.vc.bbcmedia.co.uk/bbc_hausa_radio",
     "logoUrl": "https://raw.githubusercontent.com/Mrlaa9ja/my-radio-api/main/bb.png",
     "category": "International",
-    "isInternational": true
+    "isInternational": true,
+    "programs": [
+      {
+        "id": "bbc_live",
+        "title": "BBC LIVE",
+        "streamUrl": "https://stream.live.vc.bbcmedia.co.uk/bbc_hausa_radio"
+      },
+      {
+        "id": "shirin_safe",
+        "title": "Shirin Safe",
+        "streamUrl": "https://shirin-safe-link.mp3"
+      },
+      {
+        "id": "shirin_rana",
+        "title": "Shirin Rana",
+        "streamUrl": "https://shirin-rana-link.mp3"
+      },
+      {
+        "id": "shirin_dare",
+        "title": "Shirin Dare",
+        "streamUrl": "https://shirin-dare-link.mp3"
+      }
+    ]
   },
   {
     "id": "dw-hausa",
     "name": "DW Hausa",
-    "frequency": "99.5 FM",
+    "frequency": "International",
     "streamUrl": "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/../../encoder/audio/mitschnitt/sendung-hau-morgen.mp3",
     "logoUrl": "https://raw.githubusercontent.com/Mrlaa9ja/my-radio-api/main/ddw.png",
-    "category": "Local FM",
+    "category": "International",
     "isInternational": true
   },
   {
     "id": "voa-hausa",
     "name": "VOA Hausa",
-    "frequency": "95.5 FM",
+    "frequency": "International",
     "streamUrl": "http://kv78.studio24.site/bh/raayi-riga.mp3",
     "logoUrl": "https://raw.githubusercontent.com/Mrlaa9ja/my-radio-api/main/vo.png",
-    "category": "Local FM",
+    "category": "International",
     "isInternational": true
   },
   {
