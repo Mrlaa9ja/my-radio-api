@@ -4,9 +4,8 @@
     "interstitialId": "ca-app-pub-3940256099942544/1033173712",
     "bannerPosition": "bottom" 
   },
-  "settings": {
-    "maintenanceMode": true,
-    "minAppVersion": 1,
-    "updateMessage": "New stations added!"
-  }
+ "settings": {
+  "maintenanceMode": true,
+  "updateMessage": "Server migration in progress. We'll be back at 5:00 PM!"
+}
 }
