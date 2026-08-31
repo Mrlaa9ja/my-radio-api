@@ -9,7 +9,7 @@
     "isInternational": true
   },
   {
-    "id": "freedom_radio",
+    "id": "frdom_radio",
     "name": "Freedom Radio",
     "frequency": "99.5 FM",
     "streamUrl": "https://s3.radio.co/s8377b21a7/listen",
