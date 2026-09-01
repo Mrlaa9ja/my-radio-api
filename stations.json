@@ -71,7 +71,7 @@
     "name": "CNN World",
     "frequency": "International",
     "streamUrl": "https://cnn-audio.com/stream",
-    "logoUrl": "https://raw.githubusercontent.com/Mrlaa9ja/my-radio-api/main/bb.png",
+    "logoUrl": "https://raw.githubusercontent.com/Mrlaa9ja/my-radio-api/main/vo.png",
     "category": "International",
     "isInternational": true
   },
@@ -80,7 +80,7 @@
     "name": "TRT World",
     "frequency": "International",
     "streamUrl": "https://trtworld.com/live-audio",
-    "logoUrl": "https://raw.githubusercontent.com/Mrlaa9ja/my-radio-api/main/bb.png",
+    "logoUrl": "https://raw.githubusercontent.com/Mrlaa9ja/my-radio-api/main/ddw.png",
     "category": "International",
     "isInternational": true
   },
@@ -98,7 +98,7 @@
     "name": "Freedom Radio",
     "frequency": "99.5 FM",
     "streamUrl": "https://s3.radio.co/s8377b21a7/listen",
-    "logoUrl": "https://raw.githubusercontent.com/Mrlaa9ja/my-radio-api/main/freedom.png",
+    "logoUrl": "https://raw.githubusercontent.com/Mrlaa9ja/my-radio-api/main/bb.png",
     "category": "Local FM",
     "isInternational": false
   },
@@ -107,7 +107,7 @@
     "name": "Arewa Radio",
     "frequency": "93.1 FM",
     "streamUrl": "https://s3.radio.co/s8377b21a7/listen",
-    "logoUrl": "https://raw.githubusercontent.com/Mrlaa9ja/my-radio-api/main/arewa.png",
+    "logoUrl": "https://raw.githubusercontent.com/Mrlaa9ja/my-radio-api/main/bb.png",
     "category": "Local FM",
     "isInternational": false
   },
@@ -116,7 +116,7 @@
     "name": "Cool FM",
     "frequency": "96.9 FM",
     "streamUrl": "https://s3.radio.co/s8377b21a7/listen",
-    "logoUrl": "https://raw.githubusercontent.com/Mrlaa9ja/my-radio-api/main/cool.png",
+    "logoUrl": "https://raw.githubusercontent.com/Mrlaa9ja/my-radio-api/main/bb.png",
     "category": "Local FM",
     "isInternational": false
   },
@@ -125,7 +125,7 @@
     "name": "Wazobia FM",
     "frequency": "95.1 FM",
     "streamUrl": "https://s3.radio.co/s8377b21a7/listen",
-    "logoUrl": "https://raw.githubusercontent.com/Mrlaa9ja/my-radio-api/main/wazobia.png",
+    "logoUrl": "https://raw.githubusercontent.com/Mrlaa9ja/my-radio-api/main/bb.png",
     "category": "Local FM",
     "isInternational": false
   },
