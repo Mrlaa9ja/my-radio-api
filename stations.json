@@ -49,38 +49,173 @@
     "isInternational": true
   },
   {
-    "id": "trt_hausa",
-    "name": "TRT Hausa",
+    "id": "rfi-hausa",
+    "name": "RFI Hausa",
     "frequency": "International",
-    "streamUrl": "https://stream.live.vc.bbcmedia.co.uk/bbc_hausa_radio",
-    "logoUrl": "https://raw.githubusercontent.com/Mrlaa9ja/my-radio-api/main/bb.png",
+    "streamUrl": "http://live02.rfi.fr/rfiafrique-96k.mp3",
+    "logoUrl": "https://raw.githubusercontent.com/Mrlaa9ja/my-radio-api/main/rfi.png",
     "category": "International",
-    "isInternational": false
+    "isInternational": true
   },
   {
-    "id": "ibrahim_fm",
-    "name": "Ibrahim FM",
-    "frequency": "95.5 FM",
-    "streamUrl": "https://s3.radio.co/s8377b21a7/listen",
-    "logoUrl": "https://raw.githubusercontent.com/Mrlaa9ja/my-radio-api/main/bb.png",
-    "category": "Local FM",
-    "isInternational": false
+    "id": "bbc-world",
+    "name": "BBC World",
+    "frequency": "International",
+    "streamUrl": "https://stream.live.vc.bbcmedia.co.uk/bbc_world_service",
+    "logoUrl": "https://raw.githubusercontent.com/Mrlaa9ja/my-radio-api/main/bbcw.png",
+    "category": "International",
+    "isInternational": true
   },
   {
-    "id": "duck_fm",
-    "name": "Duck FM",
+    "id": "cnn-world",
+    "name": "CNN World",
+    "frequency": "International",
+    "streamUrl": "https://cnn-audio.com/stream",
+    "logoUrl": "https://raw.githubusercontent.com/Mrlaa9ja/my-radio-api/main/cnn.png",
+    "category": "International",
+    "isInternational": true
+  },
+  {
+    "id": "trt-world",
+    "name": "TRT World",
+    "frequency": "International",
+    "streamUrl": "https://trtworld.com/live-audio",
+    "logoUrl": "https://raw.githubusercontent.com/Mrlaa9ja/my-radio-api/main/trt.png",
+    "category": "International",
+    "isInternational": true
+  },
+  {
+    "id": "al-jazeera",
+    "name": "Al Jazeera",
+    "frequency": "International",
+    "streamUrl": "https://live-audio-s3.aljazeera.com/aljazeera",
+    "logoUrl": "https://raw.githubusercontent.com/Mrlaa9ja/my-radio-api/main/aj.png",
+    "category": "International",
+    "isInternational": true
+  },
+  {
+    "id": "freedom_radio",
+    "name": "Freedom Radio",
     "frequency": "99.5 FM",
     "streamUrl": "https://s3.radio.co/s8377b21a7/listen",
-    "logoUrl": "https://raw.githubusercontent.com/Mrlaa9ja/my-radio-api/main/duck.png",
+    "logoUrl": "https://raw.githubusercontent.com/Mrlaa9ja/my-radio-api/main/freedom.png",
     "category": "Local FM",
     "isInternational": false
   },
   {
-    "id": "kowa_fm",
-    "name": "Kowa FM",
+    "id": "arewa_radio",
+    "name": "Arewa Radio",
+    "frequency": "93.1 FM",
+    "streamUrl": "https://s3.radio.co/s8377b21a7/listen",
+    "logoUrl": "https://raw.githubusercontent.com/Mrlaa9ja/my-radio-api/main/arewa.png",
+    "category": "Local FM",
+    "isInternational": false
+  },
+  {
+    "id": "cool_fm",
+    "name": "Cool FM",
+    "frequency": "96.9 FM",
+    "streamUrl": "https://s3.radio.co/s8377b21a7/listen",
+    "logoUrl": "https://raw.githubusercontent.com/Mrlaa9ja/my-radio-api/main/cool.png",
+    "category": "Local FM",
+    "isInternational": false
+  },
+  {
+    "id": "wazobia_fm",
+    "name": "Wazobia FM",
+    "frequency": "95.1 FM",
+    "streamUrl": "https://s3.radio.co/s8377b21a7/listen",
+    "logoUrl": "https://raw.githubusercontent.com/Mrlaa9ja/my-radio-api/main/wazobia.png",
+    "category": "Local FM",
+    "isInternational": false
+  },
+  {
+    "id": "raypower_fm",
+    "name": "Raypower FM",
+    "frequency": "100.5 FM",
+    "streamUrl": "https://s3.radio.co/s8377b21a7/listen",
+    "logoUrl": "https://raw.githubusercontent.com/Mrlaa9ja/my-radio-api/main/raypower.png",
+    "category": "Local FM",
+    "isInternational": false
+  },
+  {
+    "id": "sunnah_fm",
+    "name": "Sunnah FM",
+    "frequency": "96.5 FM",
+    "streamUrl": "https://s3.radio.co/s8377b21a7/listen",
+    "logoUrl": "https://raw.githubusercontent.com/Mrlaa9ja/my-radio-api/main/sunnah.png",
+    "category": "Local FM",
+    "isInternational": false
+  },
+  {
+    "id": "jalbu_fm",
+    "name": "Jalbu FM",
     "frequency": "95.5 FM",
     "streamUrl": "https://s3.radio.co/s8377b21a7/listen",
-    "logoUrl": "https://raw.githubusercontent.com/Mrlaa9ja/my-radio-api/main/kowa.png",
+    "logoUrl": "https://raw.githubusercontent.com/Mrlaa9ja/my-radio-api/main/jalbu.png",
+    "category": "Local FM",
+    "isInternational": false
+  },
+  {
+    "id": "liberty_fm",
+    "name": "Liberty FM",
+    "frequency": "103.3 FM",
+    "streamUrl": "https://s3.radio.co/s8377b21a7/listen",
+    "logoUrl": "https://raw.githubusercontent.com/Mrlaa9ja/my-radio-api/main/liberty.png",
+    "category": "Local FM",
+    "isInternational": false
+  },
+  {
+    "id": "kano_radio",
+    "name": "Kano Radio",
+    "frequency": "Radio Kano",
+    "streamUrl": "https://s3.radio.co/s8377b21a7/listen",
+    "logoUrl": "https://raw.githubusercontent.com/Mrlaa9ja/my-radio-api/main/kano.png",
+    "category": "Local FM",
+    "isInternational": false
+  },
+  {
+    "id": "nagari_fm",
+    "name": "Nagari FM",
+    "frequency": "95.5 FM",
+    "streamUrl": "https://s3.radio.co/s8377b21a7/listen",
+    "logoUrl": "https://raw.githubusercontent.com/Mrlaa9ja/my-radio-api/main/nagari.png",
+    "category": "Local FM",
+    "isInternational": false
+  },
+  {
+    "id": "jarida_fm",
+    "name": "Jarida FM",
+    "frequency": "Online",
+    "streamUrl": "https://s3.radio.co/s8377b21a7/listen",
+    "logoUrl": "https://raw.githubusercontent.com/Mrlaa9ja/my-radio-api/main/jarida.png",
+    "category": "Local FM",
+    "isInternational": false
+  },
+  {
+    "id": "amana_radio",
+    "name": "Amana Radio",
+    "frequency": "98.1 FM",
+    "streamUrl": "https://s3.radio.co/s8377b21a7/listen",
+    "logoUrl": "https://raw.githubusercontent.com/Mrlaa9ja/my-radio-api/main/amana.png",
+    "category": "Local FM",
+    "isInternational": false
+  },
+  {
+    "id": "citadel_fm",
+    "name": "Citadel FM",
+    "frequency": "95.5 FM",
+    "streamUrl": "https://s3.radio.co/s8377b21a7/listen",
+    "logoUrl": "https://raw.githubusercontent.com/Mrlaa9ja/my-radio-api/main/citadel.png",
+    "category": "Local FM",
+    "isInternational": false
+  },
+  {
+    "id": "brc_bauchi",
+    "name": "BRC Bauchi",
+    "frequency": "94.5 FM",
+    "streamUrl": "https://s3.radio.co/s8377b21a7/listen",
+    "logoUrl": "https://raw.githubusercontent.com/Mrlaa9ja/my-radio-api/main/brc.png",
     "category": "Local FM",
     "isInternational": false
   },
