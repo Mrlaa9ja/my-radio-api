@@ -53,7 +53,7 @@
     "name": "RFI Hausa",
     "frequency": "International",
     "streamUrl": "http://live02.rfi.fr/rfiafrique-96k.mp3",
-    "logoUrl": "https://raw.githubusercontent.com/Mrlaa9ja/my-radio-api/main/rfi.png",
+    "logoUrl": "https://raw.githubusercontent.com/Mrlaa9ja/my-radio-api/main/bb.png",
     "category": "International",
     "isInternational": true
   },
@@ -62,7 +62,7 @@
     "name": "BBC World",
     "frequency": "International",
     "streamUrl": "https://stream.live.vc.bbcmedia.co.uk/bbc_world_service",
-    "logoUrl": "https://raw.githubusercontent.com/Mrlaa9ja/my-radio-api/main/bbcw.png",
+    "logoUrl": "https://raw.githubusercontent.com/Mrlaa9ja/my-radio-api/main/bb.png",
     "category": "International",
     "isInternational": true
   },
@@ -71,7 +71,7 @@
     "name": "CNN World",
     "frequency": "International",
     "streamUrl": "https://cnn-audio.com/stream",
-    "logoUrl": "https://raw.githubusercontent.com/Mrlaa9ja/my-radio-api/main/cnn.png",
+    "logoUrl": "https://raw.githubusercontent.com/Mrlaa9ja/my-radio-api/main/bb.png",
     "category": "International",
     "isInternational": true
   },
@@ -80,7 +80,7 @@
     "name": "TRT World",
     "frequency": "International",
     "streamUrl": "https://trtworld.com/live-audio",
-    "logoUrl": "https://raw.githubusercontent.com/Mrlaa9ja/my-radio-api/main/trt.png",
+    "logoUrl": "https://raw.githubusercontent.com/Mrlaa9ja/my-radio-api/main/bb.png",
     "category": "International",
     "isInternational": true
   },
@@ -89,7 +89,7 @@
     "name": "Al Jazeera",
     "frequency": "International",
     "streamUrl": "https://live-audio-s3.aljazeera.com/aljazeera",
-    "logoUrl": "https://raw.githubusercontent.com/Mrlaa9ja/my-radio-api/main/aj.png",
+    "logoUrl": "https://raw.githubusercontent.com/Mrlaa9ja/my-radio-api/main/bb.png",
     "category": "International",
     "isInternational": true
   },
