@@ -2,10 +2,10 @@
   "admob": {
     "bannerId": "ca-app-pub-3940256099942544/6300978111",
     "interstitialId": "ca-app-pub-3940256099942544/1033173712",
-    "bannerPosition": "top" 
+    "bannerPosition": "top"
   },
- "settings": {
-  "maintenanceMode": false,
-  "updateMessage": "Server migration in progress. We'll be back at 5:00 PM!"
-}
+  "settings": {
+    "maintenanceMode": false,
+    "updateMessage": "Server migration in progress. We'll be back at 5:00 PM!"
+  }
 }
