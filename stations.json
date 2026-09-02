@@ -53,7 +53,7 @@
     "name": "RFI Hausa",
     "frequency": "International",
     "streamUrl": "http://live02.rfi.fr/rfiafrique-96k.mp3",
-    "logoUrl": "https://raw.githubusercontent.com/Mrlaa9ja/my-radio-api/main/bb.png",
+    "logoUrl": "https://raw.githubusercontent.com/Mrlaa9ja/my-radio-api/main/rf.png",
     "category": "International",
     "isInternational": true
   },
@@ -71,7 +71,7 @@
     "name": "CNN World",
     "frequency": "International",
     "streamUrl": "https://cnn-audio.com/stream",
-    "logoUrl": "https://raw.githubusercontent.com/Mrlaa9ja/my-radio-api/main/vo.png",
+    "logoUrl": "https://raw.githubusercontent.com/Mrlaa9ja/my-radio-api/main/cn.png",
     "category": "International",
     "isInternational": true
   },
@@ -80,7 +80,7 @@
     "name": "TRT World",
     "frequency": "International",
     "streamUrl": "https://trtworld.com/live-audio",
-    "logoUrl": "https://raw.githubusercontent.com/Mrlaa9ja/my-radio-api/main/ddw.png",
+    "logoUrl": "https://raw.githubusercontent.com/Mrlaa9ja/my-radio-api/main/tr.png",
     "category": "International",
     "isInternational": true
   },
@@ -89,7 +89,7 @@
     "name": "Al Jazeera",
     "frequency": "International",
     "streamUrl": "https://live-audio-s3.aljazeera.com/aljazeera",
-    "logoUrl": "https://raw.githubusercontent.com/Mrlaa9ja/my-radio-api/main/bb.png",
+    "logoUrl": "https://raw.githubusercontent.com/Mrlaa9ja/my-radio-api/main/al.png",
     "category": "International",
     "isInternational": true
   },
@@ -98,7 +98,7 @@
     "name": "Freedom Radio",
     "frequency": "99.5 FM",
     "streamUrl": "https://s3.radio.co/s8377b21a7/listen",
-    "logoUrl": "https://raw.githubusercontent.com/Mrlaa9ja/my-radio-api/main/bb.png",
+    "logoUrl": "https://raw.githubusercontent.com/Mrlaa9ja/my-radio-api/main/fr.png",
     "category": "Local FM",
     "isInternational": false
   },
@@ -107,7 +107,7 @@
     "name": "Arewa Radio",
     "frequency": "93.1 FM",
     "streamUrl": "https://s3.radio.co/s8377b21a7/listen",
-    "logoUrl": "https://raw.githubusercontent.com/Mrlaa9ja/my-radio-api/main/bb.png",
+    "logoUrl": "https://raw.githubusercontent.com/Mrlaa9ja/my-radio-api/main/ar.png",
     "category": "Local FM",
     "isInternational": false
   },
