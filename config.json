@@ -5,7 +5,7 @@
     "bannerPosition": "top"
   },
   "settings": {
-    "maintenanceMode": true,
+    "maintenanceMode": false,
     "minAppVersion": 1,
     "updateMessage": "We are currently updating our servers. Please check back later."
   }
